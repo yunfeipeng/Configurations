@@ -1,0 +1,55 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 6/17/2021
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.com
+*.googleusercontent.com
+*.facebook.*
+*.duckduckgo.com
+*.youtube.com
+*.gstatic.com
+*.googleapis.com
+*.imgur.com
+*.gravatar.com
+*.fbcdn.net
+*.twitter.com
+*.twimg.com
+launchdarkly.com
+*.google-analytics.com
+*.googletagmanager.com
+*.facebook.net
+*.medium.com
+*.wikipedia.org
+*.github.com
+*.github.io
+*.w3schools.com
+*.githubusercontent.com
+*.ytimg.com
+*.googlevideo.com
+*.githubassets.com
+*.cdn.office.net
+*.dropbox.com
+lastpass.com
+*.quora.com
+*.quoracdn.net
+*.cloudflare.com
+*.google.com.hk
+*.firefox.com
+*.googlesource.com
+*.ingress.com
+*.telegram.org
+*.tdesktop.com
+*.reddit.com
+hydrogenaud.io
+*.redditmedia.com
+*.redditstatic.com
+*.gitlab.com
+*.live.com
+*.raindrop.io
+*.pinterest.com
+*.pinimg.com
+*.wp.com
+*.wordpress.com
+*.chrome.com
+testing-library.com
