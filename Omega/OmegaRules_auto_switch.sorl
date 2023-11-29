@@ -3,24 +3,39 @@
 ; Date: 6/17/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+autode.sk
+a360.co
+bit.ly
+*.cloudfront.net
+*.launchdarkly.com
+kodi.wiki
+*.slack.com
+*.slack-edge.com
+slack-imgs.com
+*.osmc.tv
+
+*.android.com
+*.blogspot.com
+*.degreedcdn.com
+*.fbcdn.net
+*.facebook.*
 *.google.com
 *.googleusercontent.com
-*.facebook.*
+*.google-analytics.com
+*.googletagmanager.com
 *.duckduckgo.com
 *.youtube.com
 *.gstatic.com
 *.googleapis.com
 *.imgur.com
 *.gravatar.com
-*.fbcdn.net
 *.twitter.com
 *.twimg.com
 launchdarkly.com
-*.google-analytics.com
-*.googletagmanager.com
 *.facebook.net
 *.medium.com
 *.wikipedia.org
+*.wikimedia.org
 *.github.com
 *.github.io
 *.w3schools.com
@@ -28,7 +43,7 @@ launchdarkly.com
 *.ytimg.com
 *.googlevideo.com
 *.githubassets.com
-*.cdn.office.net
+; *.cdn.office.net
 *.dropbox.com
 lastpass.com
 *.quora.com
@@ -37,7 +52,6 @@ lastpass.com
 *.google.com.hk
 *.firefox.com
 *.googlesource.com
-*.ingress.com
 *.telegram.org
 *.tdesktop.com
 *.reddit.com
@@ -45,11 +59,13 @@ hydrogenaud.io
 *.redditmedia.com
 *.redditstatic.com
 *.gitlab.com
-*.live.com
-*.raindrop.io
+; *.live.com
+; *.raindrop.io
 *.pinterest.com
 *.pinimg.com
+*.t.co
 *.wp.com
 *.wordpress.com
 *.chrome.com
 testing-library.com
+*.oktacdn.com
