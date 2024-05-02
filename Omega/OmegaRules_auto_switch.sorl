@@ -3,8 +3,13 @@
 ; Date: 6/17/2021
 ; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
 
+; Autodesk
 autode.sk
 a360.co
+
+; Microsoft
+onedrive.live.com
+
 bit.ly
 *.cloudfront.net
 *.launchdarkly.com
