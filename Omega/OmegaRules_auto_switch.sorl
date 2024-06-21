@@ -18,6 +18,8 @@ kodi.wiki
 *.slack-edge.com
 slack-imgs.com
 *.osmc.tv
+; z-library
+singlelogin.re
 zlibrary-asia.se
 
 *.android.com
